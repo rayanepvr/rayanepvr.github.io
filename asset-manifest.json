@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rayanepvr.github.io/static/css/main.ff9ba0a8.css",
+    "main.js": "/rayanepvr.github.io/static/js/main.d79fe973.js",
+    "index.html": "/rayanepvr.github.io/index.html",
+    "main.ff9ba0a8.css.map": "/rayanepvr.github.io/static/css/main.ff9ba0a8.css.map",
+    "main.d79fe973.js.map": "/rayanepvr.github.io/static/js/main.d79fe973.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff9ba0a8.css",
+    "static/js/main.d79fe973.js"
+  ]
+}
