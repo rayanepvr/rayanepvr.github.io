@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/rayanepvr.github.io/static/css/main.ff9ba0a8.css",
-    "main.js": "/rayanepvr.github.io/static/js/main.d79fe973.js",
-    "index.html": "/rayanepvr.github.io/index.html",
-    "main.ff9ba0a8.css.map": "/rayanepvr.github.io/static/css/main.ff9ba0a8.css.map",
-    "main.d79fe973.js.map": "/rayanepvr.github.io/static/js/main.d79fe973.js.map"
+    "main.css": "/static/css/main.ff9ba0a8.css",
+    "main.js": "/static/js/main.9cd6824e.js",
+    "index.html": "/index.html",
+    "main.ff9ba0a8.css.map": "/static/css/main.ff9ba0a8.css.map",
+    "main.9cd6824e.js.map": "/static/js/main.9cd6824e.js.map"
   },
   "entrypoints": [
     "static/css/main.ff9ba0a8.css",
-    "static/js/main.d79fe973.js"
+    "static/js/main.9cd6824e.js"
   ]
 }
